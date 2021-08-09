@@ -1,4 +1,5 @@
-### MARKDOWNì„ í™œìš©í•œ ë¬¸ì„œ ì‘ì„±
+### MARKDOWNÀ» È°¿ëÇÑ ¹®¼­ ÀÛ¼º
   - [MARKDOWN README.md](https://github.com/rubinkim/TIL/tree/master/MARKDOWN)
-### Gitì„ í™œìš©í•œ ë²„ì „ ê´€ë¦¬
+### GitÀ» È°¿ëÇÑ ¹öÀü °ü¸®
   - [GIT README.md](https://github.com/rubinkim/TIL/tree/master/GIT)
+
