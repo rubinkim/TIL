@@ -1,5 +1,7 @@
-### MARKDOWNÀ» È°¿ëÇÑ ¹®¼­ ÀÛ¼º
+### MARKDOWNì„ í™œìš©í•œ ë¬¸ì„œ ì‘ì„±
   - [MARKDOWN README.md](https://github.com/rubinkim/TIL/tree/master/MARKDOWN)
-### GitÀ» È°¿ëÇÑ ¹öÀü °ü¸®
+### Gitì„ í™œìš©í•œ ë²„ì „ ê´€ë¦¬
   - [GIT README.md](https://github.com/rubinkim/TIL/tree/master/GIT)
+### Pythonì„ ì´ìš©í•œ ë°ì´í„° ë¶„ì„
+  - [Python README.md](https://github.com/rubinkim/TIL/blob/master/PYTHON/README.md)
 
